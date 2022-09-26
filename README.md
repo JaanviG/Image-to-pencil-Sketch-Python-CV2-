@@ -1,6 +1,6 @@
 # Image-to-pencil-Sketch-Python-CV2
 
-# (Note:- If you feel that this task has improved your abilities, don't forget to click the star icon in the upper right.)
+(Note:- If you feel that this task has improved your abilities, don't forget to click the star icon in the upper right.)
 
 # Problem Statement:-
 * We need to read the image in RBG format and then convert it to a grayscale image. This will turn an image into a classic black and white photo.
