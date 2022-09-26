@@ -1,4 +1,4 @@
-# Image-to-pencil-Sketch-Python-CV2
+# Image to pencil Sketch using Python CV2 library
 
 (Note:- If you feel that this task has improved your abilities, don't forget to click the star icon in the upper right.)
 
@@ -35,8 +35,8 @@ Reading the image in RGB format and converting it to a grayscale image using CV2
 # Steps: 
 1) Convert the color image to grayscale.
 
-2) Invert the grayscale image to get a negative(invert image).
+2) Invert the grayscale image to get a negative (invert image).
 
-3) Apply a Gaussian blur() to the negative from previous step.
+3) Apply a GaussianBlur() to the negative from previous step.
 
-4) Finally by using divide get the sketch image from the smoothen Image.
+4) Finally, by using divide get the sketch image from the smoothen Image.
