@@ -1,5 +1,7 @@
 # Image-to-pencil-Sketch-Python-CV2
 
+(Note:- If you feel that this task has improved your abilities, don't forget to click the star icon in the upper right.)
+
 Reading the image in RGB format and converting it to a grayscale image using CV2 library from python, matplotlib, style cvtcolor, bitwise_not, Gaussian_Blur and divide and converting the image.
 # Problem Statement:-
 * We need to read the image in RBG format and then convert it to a grayscale image. This will turn an image into a classic black and white photo.
@@ -26,3 +28,12 @@ Then the next thing to do is invert the grayscale image also called negative ima
 ![image](https://user-images.githubusercontent.com/112110549/192284338-943e90cf-3043-4115-95ea-0c82f392d45e.png)
 
 * Final output skechted Image
+
+# Steps: 
+1) Convert the color image to grayscale.
+
+2) Invert the grayscale image to get a negative(invert image).
+
+3) Apply a Gaussian blur() to the negative from previous step.
+
+4) Finally by using divide get the sketch image from the smoothen Image.
